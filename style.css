@@ -1,0 +1,52 @@
+html{
+	font-family: sriracha;
+	text-align: center;
+	color: rgba(36, 39, 35, 0.9);
+	background-color: rgba(99, 131, 92, 0.5);
+	margin: 20px 100px 50px 100px;
+	padding: 20px;
+}
+
+.responsive {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+
+#image{
+	transition: all 1s;
+	border-radius: 10%;
+}
+
+#image:hover{
+	transform: scale(1.1);
+}
+
+
+h1{
+	font-size: 3em;
+	text-shadow: 4px 4px 4px rgba(99, 108, 98,0.5);
+	border: outset 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
